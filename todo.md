@@ -32,4 +32,7 @@ da @camilatigre
 
 ## Repos que eu dei oi
 - https://github.com/ThoughtWorksInc/transervicos
+
+<!--
 - https://github.com/floripajs/mojito
+-->
